@@ -1,6 +1,6 @@
-![License: ROTA Vision](https://img.shields.io/badge/License-ROTA%20Vision-00a2ff?labelColor=ee220c)
-![Board Approval Required](https://img.shields.io/badge/Board%20Approval-Required-00a2ff?labelColor=ee220c)
-![Branding Protected](https://img.shields.io/badge/Brading-Protected-00a2ff?labelColor=ee220c)
+[![License: ROTA Vision](https://img.shields.io/badge/License-ROTA%20Vision-00a2ff?labelColor=ee220c)]
+[![Board Approval Required](https://img.shields.io/badge/Board%20Approval-Required-00a2ff?labelColor=ee220c)]
+[![Branding Protected](https://img.shields.io/badge/Brading-Protected-00a2ff?labelColor=ee220c)]
 
 This website is licensed under the **ROTA Vision Files License**.
 Modifications, uploads, and contributions are restricted and require approval from the ROTA Vision Board.
